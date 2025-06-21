@@ -29,14 +29,6 @@ A **Graphical User Interface (GUI)** for [mkcert](https://github.com/FiloSottile
 
 ---
 
-## 🚀 Quick Start
-
-1. Install [mkcert](https://github.com/FiloSottile/mkcert#installation)
-2. Download `mkcert-GUI.exe` or `.ps1` from the [Releases](https://github.com/vadlike/mkcert-GUI-/releases)
-3. Run the GUI and generate certificates in seconds
-
----
-
 ## ⚙️ Requirements
 
 - Windows 10/11
