@@ -1,6 +1,57 @@
 
 
-GUI for mkcert https://github.com/FiloSottile/mkcert#readme
-download https://github.com/vadlike/mkcert-GUI-VADLIKE/releases
+# mkcert-GUI 🛡️
 
-<img src="img/[logo.png](https://github.com/user-attachments/assets/3f1684c1-ead1-480f-8a67-69b1c938be9f)" width="200"/>
+A **Graphical User Interface (GUI)** for [mkcert](https://github.com/FiloSottile/mkcert) — the easiest way to create local SSL certificates with just a few clicks, no command-line knowledge required.
+
+---
+
+## 🔽 Download
+👉 [Download the latest release](https://github.com/vadlike/mkcert-GUI-VADLIKE/releases)  
+💡 Requires [mkcert](https://github.com/FiloSottile/mkcert#installation) to be installed.
+
+---
+
+## 🧰 Features
+
+- Install root CA (`mkcert -install`)
+- Generate SSL certificates for any domain
+- Easy path and filename selection
+- Supports multi-domain certificates
+- Hides the CMD window for a clean experience
+- Automatically creates a `certs` folder for output
+
+---
+
+## 📷 Screenshots
+
+<img src="scr.png" width="500"/>
+
+---
+
+## 🚀 Quick Start
+
+1. Install [mkcert](https://github.com/FiloSottile/mkcert#installation)
+2. Download `mkcert-GUI.exe` or `.ps1` from the [Releases](https://github.com/vadlike/mkcert-GUI-/releases)
+3. Run the GUI and generate certificates in seconds
+
+---
+
+## ⚙️ Requirements
+
+- Windows 10/11
+- [mkcert](https://github.com/FiloSottile/mkcert)
+- PowerShell (if using `.ps1` version)
+
+---
+
+## 👤 Author
+
+- GUI & PowerShell script by [vadlike](https://github.com/vadlike)
+- Based on the CLI tool [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)
+
+---
+
+## 📄 License
+
+MIT
